@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1623910762 source:c:\users\pankaj\desktop\daiict sem - 2\hotel_management\main.cpp
+	<iostream>
+	"GuestReservation.h"
+	"Room.h"
+
+1623758076 c:\users\pankaj\desktop\daiict sem - 2\hotel_management\include\guestinformation.h
+	<iostream>
+	<string>
+	<cstring>
+
+1623874078 source:c:\users\pankaj\desktop\daiict sem - 2\hotel_management\src\guestinformation.cpp
+	"GuestInformation.h"
+	<bits/stdc++.h>
+
+1623912617 source:c:\users\pankaj\desktop\daiict sem - 2\hotel_management\src\guestreservation.cpp
+	"GuestReservation.h"
+	"GuestInformation.h"
+	"Room.h"
+
+1623910059 c:\users\pankaj\desktop\daiict sem - 2\hotel_management\include\guestreservation.h
+	<bits/stdc++.h>
+
+1623873780 source:c:\users\pankaj\desktop\daiict sem - 2\hotel_management\src\room.cpp
+	"Room.h"
+
+1623873344 c:\users\pankaj\desktop\daiict sem - 2\hotel_management\include\room.h
+	<bits/stdc++.h>
+
+1623910762 source:c:\users\pankaj\downloads\hotel_management (1)\hotel_management\main.cpp
+	<iostream>
+	"GuestReservation.h"
+	"Room.h"
+
+1623910059 c:\users\pankaj\downloads\hotel_management (1)\hotel_management\include\guestreservation.h
+	<bits/stdc++.h>
+
+1623873344 c:\users\pankaj\downloads\hotel_management (1)\hotel_management\include\room.h
+	<bits/stdc++.h>
+
+1623874078 source:c:\users\pankaj\downloads\hotel_management (1)\hotel_management\src\guestinformation.cpp
+	"GuestInformation.h"
+	<bits/stdc++.h>
+
+1623758076 c:\users\pankaj\downloads\hotel_management (1)\hotel_management\include\guestinformation.h
+	<iostream>
+	<string>
+	<cstring>
+
+1623910255 source:c:\users\pankaj\downloads\hotel_management (1)\hotel_management\src\guestreservation.cpp
+	"GuestReservation.h"
+	"GuestInformation.h"
+	"Room.h"
+
+1623873780 source:c:\users\pankaj\downloads\hotel_management (1)\hotel_management\src\room.cpp
+	"Room.h"
+
+1623944765 source:c:\users\pankaj\desktop\hotel_management\main.cpp
+	<iostream>
+	"GuestReservation.h"
+	"Room.h"
+
+1623944136 c:\users\pankaj\desktop\hotel_management\include\guestreservation.h
+	<bits/stdc++.h>
+
+1623929550 c:\users\pankaj\desktop\hotel_management\include\room.h
+	<bits/stdc++.h>
+
+1623931056 source:c:\users\pankaj\desktop\hotel_management\src\guestinformation.cpp
+	"GuestInformation.h"
+	<bits/stdc++.h>
+
+1623758076 c:\users\pankaj\desktop\hotel_management\include\guestinformation.h
+	<iostream>
+	<string>
+	<cstring>
+
+1623929604 source:c:\users\pankaj\desktop\hotel_management\src\room.cpp
+	"Room.h"
+
+1623944939 source:c:\users\pankaj\desktop\hotel_management\src\guestreservation.cpp
+	"GuestReservation.h"
+	"GuestInformation.h"
+	"Room.h"
+
